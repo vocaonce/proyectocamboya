@@ -1,0 +1,149 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>TURISMO</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #FFCC99;
+}
+.Estilo2 {
+	font-size: 36px;
+	font-weight: bold;
+}
+.Estilo4 {font-size: 24px; font-weight: bold; }
+.Estilo7 {font-size: 18}
+.Estilo9 {
+	font-size: 18px;
+	font-weight: bold;
+}
+-->
+</style>
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0621123125_0) return;
+  window.mm_menu_0621123125_0 = new Menu("root",142,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621123125_0.addMenuItem("DANZA","location='DANZA.html'");
+  mm_menu_0621123125_0.addMenuItem("MUSICA","location='MUSICA.html'");
+  mm_menu_0621123125_0.addMenuItem("TRAJES&nbsp;TIPICOS","location='TRAJES TIPICOS.html'");
+   mm_menu_0621123125_0.hideOnMouseOut=true;
+   mm_menu_0621123125_0.bgColor='#555555';
+   mm_menu_0621123125_0.menuBorder=1;
+   mm_menu_0621123125_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621123125_0.menuBorderBgColor='#777777';
+
+      window.mm_menu_0621125227_0 = new Menu("root",137,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621125227_0.addMenuItem("CULTURAL","location='CULTURAL.html'");
+  mm_menu_0621125227_0.addMenuItem("ARQUEOLOGIA","location='ARQUEOLOGIA.html'");
+  mm_menu_0621125227_0.addMenuItem("NATURALEZA","location='Naturaleza.html'");
+   mm_menu_0621125227_0.hideOnMouseOut=true;
+   mm_menu_0621125227_0.bgColor='#555555';
+   mm_menu_0621125227_0.menuBorder=1;
+   mm_menu_0621125227_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621125227_0.menuBorderBgColor='#777777';
+
+  window.mm_menu_0621232348_0 = new Menu("root",128,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621232348_0.addMenuItem("CONCLUSION","location='CONCLUSION.html'");
+   mm_menu_0621232348_0.hideOnMouseOut=true;
+   mm_menu_0621232348_0.bgColor='#555555';
+   mm_menu_0621232348_0.menuBorder=1;
+   mm_menu_0621232348_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621232348_0.menuBorderBgColor='#777777';
+
+mm_menu_0621232348_0.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript" src="mm_menu.js"></script>
+</head>
+
+<body>
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<table width="1341" height="408" border="0" align="center">
+  <tr>
+    <td height="184" colspan="7"><div align="center"><img src="WhatsApp Image 2024-06-20 at 11.47.42 AM.jpeg" width="569" height="155" /></div></td>
+  </tr>
+  <tr>
+    <td><a href="INICIO.html"><img src="button_inicio (2).png" name="image3" width="200" height="75" border="0" id="image3" onmouseover="MM_showMenu(window.mm_menu_0621232348_0,197,72,null,'image3')" onmouseout="MM_startTimeout();" /></a></td>
+    <td><a href="HISTORIA.html"><img src="button_historia.png" width="200" height="75" border="0" /></a></td>
+    <td><a href="CULTURA.html"><img src="button_cultura.png" name="image1" width="200" height="75" border="0" id="image1" onmouseover="MM_showMenu(window.mm_menu_0621123125_0,197,72,null,'image1')" onmouseout="MM_startTimeout();" /></a></td>
+    <td><a href="GASTRONOMIA.html"><img src="button_gastronomia.png" width="200" height="75" border="0" /></a></td>
+    <td><a href="UBICACION.html"><img src="button_ubicacion (1).png" width="200" height="75" border="0" /></a></td>
+    <td><a href="SIMBOLOS.html"><img src="button_simbolos.png" width="200" height="75" border="0" /></a></td>
+    <td><a href="TURISMO.html"><img src="button_turismo.png" name="image2" width="200" height="75" border="0" id="image2" onmouseover="MM_showMenu(window.mm_menu_0621125227_0,197,72,null,'image2')" onmouseout="MM_startTimeout();" /></a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center"><span class="Estilo2">TURISMO</span></div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center">
+      <p class="Estilo4">CIUDADES Y CULTURA</p>
+      <ul>
+        <li class="Estilo7">
+          <div align="left" class="Estilo7"><strong> PHNOM PENH:</strong> CAPITAL CON EL PALACIO REAL, EL MUSEO DEL GENOCIDIO  TUOL SLENG Y MERCADOS VIBRANTES.</div>
+        </li>
+        <li class="Estilo7">
+          <div align="left"><strong>SIEM REAP:</strong> CERCA DE ANGKOR, CON UNA ANIMADA VIDA NOCTURNA Y  MERCADOS NOCTURNOS. </div>
+        </li>
+        <li class="Estilo7">
+          <div align="left" class="Estilo7"><strong>BATTAMBANG: </strong>CIUDAD CONOCIDA POR EL &quot;TREN DE BAMB&Uacute;&quot; Y SU ARTE Y  CULTURA LOCALES. </div>
+        </li>
+      </ul>
+    </div></td>
+    <td>&nbsp;</td>
+    <td colspan="3"><p align="center" class="Estilo4">PLAYAS Y ISLAS </p>
+        <ul class="Estilo7">
+          <li>
+            <div align="left"><strong>SIHANOUKVILLE:</strong> PLAYAS POPULARES COMO OTRES BEACH Y SERENDIPITY  BEACH. </div>
+          </li>
+          <li>
+            <div align="left"><strong>KOH RONG:</strong> ISLA PARADIS&Iacute;ACA IDEAL PARA BUCEO Y SNORKEL.  KOH RONG </div>
+          </li>
+          <li>
+            <div align="left"><strong>SAMLOEM:</strong> M&Aacute;S TRANQUILA Y PERFECTA PARA RELAJARSE EN  PLAYAS SOLITARIAS. </div>
+          </li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td colspan="3"><p align="center" class="Estilo4">EXPERIENCIAS CULTURALES </p>
+        <ul>
+          <li class="Estilo7"><span class="Estilo9">FESTIVALES: </span>PCHUM BEN, FESTIVAL DEL AGUA, Y A&Ntilde;O NUEVO KHMER. </li>
+          <li class="Estilo7"><span class="Estilo9">GASTRONOM&Iacute;A:</span> PLATOS T&Iacute;PICOS COMO AMOK Y LOK LAK; MERCADOS DE  COMIDA LOCALES. </li>
+        </ul></td>
+    <td>&nbsp;</td>
+    <td colspan="3"><p align="center" class="Estilo4">INFORMACI&Oacute;N PR&Aacute;CTICA </p>
+        <ul>
+          <li><strong class="Estilo7">VISAS: </strong>NECESARIAS PARA LA MAYOR&Iacute;A DE VISITANTES, DISPONIBLES A LA  LLEGADA O EN L&Iacute;NEA. </li>
+          <li><strong class="Estilo7">MONEDA:</strong> RIEL CAMBOYANO Y D&Oacute;LAR ESTADOUNIDENSE.</li>
+          <li> <strong>MEJOR &Eacute;POCA PARA VISITAR: </strong>TEMPORADA SECA DE NOVIEMBRE A ABRIL. </li>
+          <li><strong class="Estilo7">TRANSPORTE: </strong>TUK-TUKS Y MOTOS EN CIUDADES; AUTOBUSES Y VUELOS  PARA DISTANCIAS LARGAS.</li>
+          <li><span class="Estilo7"> <strong>SEGURIDAD:</strong> GENERALMENTE SEGURO, CON PRECAUCIONES B&Aacute;SICAS  RECOMENDADAS.</span> </li>
+        </ul></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3"><div align="center"><img src="WhatsApp Image 2024-06-21 at 11.24.16 AM.jpeg" width="471" height="228" /></div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

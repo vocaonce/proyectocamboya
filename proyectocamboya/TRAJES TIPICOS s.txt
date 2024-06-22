@@ -1,0 +1,127 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>TRAJES TIPICOS</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #FFCC99;
+}
+.Estilo1 {
+	font-size: 36px;
+	font-weight: bold;
+}
+.Estilo2 {font-size: 24px}
+.Estilo3 {font-size: 20px}
+.Estilo4 {font-size: 21px}
+-->
+</style>
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0621090920_0) return;
+    window.mm_menu_0621090920_0 = new Menu("root",142,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621090920_0.addMenuItem("DANZA","location='DANZA.html'");
+  mm_menu_0621090920_0.addMenuItem("MUSICA","location='MUSICA.html'");
+  mm_menu_0621090920_0.addMenuItem("TRAJES&nbsp;TIPICOS","location='TRAJES TIPICOS.html'");
+   mm_menu_0621090920_0.hideOnMouseOut=true;
+   mm_menu_0621090920_0.bgColor='#555555';
+   mm_menu_0621090920_0.menuBorder=1;
+   mm_menu_0621090920_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621090920_0.menuBorderBgColor='#777777';
+
+      window.mm_menu_0621125558_0 = new Menu("root",126,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621125558_0.addMenuItem("CULTURAL","location='CULTURAL.html'");
+  mm_menu_0621125558_0.addMenuItem("ARQUELOGIA","location='ARQUEOLOGIA.html'");
+  mm_menu_0621125558_0.addMenuItem("NATURALEZA","location='Naturaleza.html'");
+   mm_menu_0621125558_0.hideOnMouseOut=true;
+   mm_menu_0621125558_0.bgColor='#555555';
+   mm_menu_0621125558_0.menuBorder=1;
+   mm_menu_0621125558_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621125558_0.menuBorderBgColor='#777777';
+
+  window.mm_menu_0621232608_0 = new Menu("root",128,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621232608_0.addMenuItem("CONCLUSION","location='CONCLUSION.html'");
+   mm_menu_0621232608_0.hideOnMouseOut=true;
+   mm_menu_0621232608_0.bgColor='#555555';
+   mm_menu_0621232608_0.menuBorder=1;
+   mm_menu_0621232608_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621232608_0.menuBorderBgColor='#777777';
+
+mm_menu_0621232608_0.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript" src="mm_menu.js"></script>
+</head>
+
+<body>
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<table width="1163" height="372" border="0" align="center">
+  <tr>
+    <td height="181" colspan="7"><div align="center"><img src="WhatsApp Image 2024-06-20 at 11.47.42 AM.jpeg" width="569" height="155" /></div></td>
+  </tr>
+  <tr>
+    <td><a href="INICIO.html"><img src="button_inicio (2).png" name="image3" width="200" height="75" border="0" id="image3" onmouseover="MM_showMenu(window.mm_menu_0621232608_0,197,72,null,'image3')" onmouseout="MM_startTimeout();" /></a></td>
+    <td><a href="HISTORIA.html"><img src="button_historia.png" width="200" height="75" border="0" /></a></td>
+    <td><a href="CULTURA.html"><img src="button_cultura.png" name="image1" width="200" height="75" border="0" id="image1" onmouseover="MM_showMenu(window.mm_menu_0621090920_0,197,72,null,'image1')" onmouseout="MM_startTimeout();" /></a></td>
+    <td><a href="GASTRONOMIA.html"><img src="button_gastronomia.png" width="200" height="75" border="0" /></a></td>
+    <td><a href="UBICACION.html"><img src="button_ubicacion (1).png" width="200" height="75" border="0" /></a></td>
+    <td><a href="SIMBOLOS.html"><img src="button_simbolos.png" width="200" height="75" border="0" /></a></td>
+    <td><a href="TURISMO.html"><img src="button_turismo.png" name="image2" width="200" height="75" border="0" id="image2" onmouseover="MM_showMenu(window.mm_menu_0621125558_0,197,72,null,'image2')" onmouseout="MM_startTimeout();" /></a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center" class="Estilo1">TRAJES TIPICOS </div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3">&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td colspan="3"><div align="center"><span class="Estilo2">Camboya es un pa&iacute;s rico en tradiciones y cultura, y sus trajes  tradicionales reflejan esta herencia. Los trajes tradicionales  camboyanos no solo son una expresi&oacute;n de identidad cultural,  sino que tambi&eacute;n juegan un papel significativo en las  ceremonias y la vida cotidiana. A continuaci&oacute;n, se describen  algunos de los trajes m&aacute;s emblem&aacute;ticos y su importancia en  la sociedad camboyana</span></div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><div align="center"><span class="Estilo3">El Sampot es el traje nacional de  Camboya y tiene una gran importancia  cultural. Se trata de una pieza de tela  grande, generalmente sin costuras, que se  envuelve desde la cintura hasta la  pantorrilla y se pasa por debajo de la  entrepierna. Se asegura en la parte  posterior, y el extremo sobrante se puede  estirar como una cola de pez.  Dependiendo de la ocasi&oacute;n y el estatus  social, la tela se puede plegar y ajustar de  diferentes maneras. Es una prenda vers&aacute;til  y elegante, utilizada tanto por hombres  como por mujeres en diversas ocasiones,  incluidas ceremonias formales . </span></div>
+        <div align="center"></div></td>
+    <td>&nbsp;</td>
+    <td><div align="center"><span class="Estilo2">La falda de cubo es similar al  Sarong en estilo y material,  pero se diferencia en que es  adecuada para su uso en  p&uacute;blico. Predominan los  colores oscuros como el negro,  y los materiales utilizados  suelen ser de mayor calidad, lo  que la hace apropiada para  ocasiones m&aacute;s formales </span><span class="Estilo3">.</span></div></td>
+    <td>&nbsp;</td>
+    <td><div align="center"><span class="Estilo4">El Sarong es una prenda tradicionalmuy popular entre los camboyanos  y se usa principalmente en el hogar.Esta vestimenta es sencilla, c&oacute;moday f&aacute;cil de confeccionar. Est&aacute; hechade tela o seda con dise&ntilde;os  impresos, y se ajusta a la cintura  como una falda. Aunque es  com&uacute;nmente utilizado en contextosinformales, es una prenda  fundamental en la vestimenta diariade muchas personas . </span></div></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="WhatsApp Image 2024-06-20 at 11.28.22 PM.jpeg" width="118" height="136" /></div></td>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="WhatsApp Image 2024-06-20 at 11.28.44 PM.jpeg" width="185" height="129" /></div></td>
+    <td>&nbsp;</td>
+    <td><div align="center"><img src="WhatsApp Image 2024-06-20 at 11.29.05 PM.jpeg" width="169" height="118" /></div></td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

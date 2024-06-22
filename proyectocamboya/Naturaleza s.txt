@@ -1,0 +1,143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>NATURALEZA</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #FFCC99;
+}
+.Estilo1 {
+	font-size: 36px;
+	font-weight: bold;
+}
+.Estilo2 {
+	font-size: 24px;
+	font-weight: bold;
+}
+.Estilo3 {font-size: 18px}
+.Estilo4 {font-size: xx-large; font-weight: bold; }
+.Estilo5 {font-size: xx-large; }
+-->
+</style>
+<script language="JavaScript">
+<!--
+function mmLoadMenus() {
+  if (window.mm_menu_0621213134_0) return;
+      window.mm_menu_0621213134_0 = new Menu("root",137,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621213134_0.addMenuItem("CULTURAL","location='CULTURAL.html'");
+  mm_menu_0621213134_0.addMenuItem("ARQUEOLOGIA","location='ARQUEOLOGIA.html'");
+  mm_menu_0621213134_0.addMenuItem("NATURALEZA","location='Naturaleza.html'");
+   mm_menu_0621213134_0.hideOnMouseOut=true;
+   mm_menu_0621213134_0.bgColor='#555555';
+   mm_menu_0621213134_0.menuBorder=1;
+   mm_menu_0621213134_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621213134_0.menuBorderBgColor='#777777';
+window.mm_menu_0621220152_0 = new Menu("root",142,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621220152_0.addMenuItem("DANZA","location='DANZA.html'");
+  mm_menu_0621220152_0.addMenuItem("MUSICA","location='MUSICA.html'");
+  mm_menu_0621220152_0.addMenuItem("TRAJES&nbsp;TIPICOS","location='TRAJES TIPICOS.html'");
+   mm_menu_0621220152_0.hideOnMouseOut=true;
+   mm_menu_0621220152_0.bgColor='#555555';
+   mm_menu_0621220152_0.menuBorder=1;
+   mm_menu_0621220152_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621220152_0.menuBorderBgColor='#777777';
+
+  window.mm_menu_0621232137_0 = new Menu("root",128,18,"",12,"#000000","#FFFFFF","#CCCCCC","#7D3F00","left","middle",3,0,1000,-5,7,true,false,true,0,true,true);
+  mm_menu_0621232137_0.addMenuItem("CONCLUSION","location='CONCLUSION.html'");
+   mm_menu_0621232137_0.hideOnMouseOut=true;
+   mm_menu_0621232137_0.bgColor='#555555';
+   mm_menu_0621232137_0.menuBorder=1;
+   mm_menu_0621232137_0.menuLiteBgColor='#FFFFFF';
+   mm_menu_0621232137_0.menuBorderBgColor='#777777';
+
+mm_menu_0621232137_0.writeMenus();
+} // mmLoadMenus()
+//-->
+</script>
+<script language="JavaScript" src="mm_menu.js"></script>
+</head>
+
+<body>
+<script language="JavaScript1.2">mmLoadMenus();</script>
+<table width="1479" height="427" border="0" align="center">
+  <tr>
+    <td height="178" colspan="7"><div align="center"><img src="WhatsApp Image 2024-06-20 at 11.47.42 AM.jpeg" width="569" height="155" /></div></td>
+  </tr>
+  <tr>
+    <td width="200"><a href="INICIO.html"><img src="button_inicio (2).png" name="image3" width="200" height="75" border="0" id="image3" onmouseover="MM_showMenu(window.mm_menu_0621232137_0,197,72,null,'image3')" onmouseout="MM_startTimeout();" /></a></td>
+    <td width="200"><a href="HISTORIA.html"><img src="button_historia.png" width="200" height="75" border="0" /></a></td>
+    <td width="200"><a href="CULTURA.html"><img src="button_cultura.png" name="image2" width="200" height="75" border="0" id="image2" onmouseover="MM_showMenu(window.mm_menu_0621220152_0,197,72,null,'image2')" onmouseout="MM_startTimeout();" /></a></td>
+    <td width="249"><div align="center"><a href="GASTRONOMIA.html"><img src="button_gastronomia.png" width="250" height="75" border="0" /></a></div></td>
+    <td width="200"><a href="UBICACION.html"><img src="button_ubicacion (1).png" width="200" height="75" border="0" /></a></td>
+    <td width="200"><a href="SIMBOLOS.html"><img src="button_simbolos.png" width="200" height="75" border="0" /></a></td>
+    <td width="200"><a href="TURISMO.html"><img src="button_turismo.png" name="image1" width="200" height="75" border="0" id="image1" onmouseover="MM_showMenu(window.mm_menu_0621213134_0,197,72,null,'image1')" onmouseout="MM_startTimeout();" /></a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><div align="center" class="Estilo1">NATURALEZA</div></td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="4" rowspan="2"><p align="center" class="Estilo4">NATURALEZA </p>
+        <p align="center" class="Estilo5">La naturaleza en Camboya es rica y diversa, ofreciendo una gran variedad de  paisajes que van desde selvas tropicales y monta&ntilde;as hasta r&iacute;os y playas. La  biodiversidad del pa&iacute;s es notable, con una amplia gama de especies de flora y  fauna, algunas de las cuales son &uacute;nicas en la regi&oacute;n. A continuaci&oacute;n, se describe  en detalle la naturaleza en Camboya, incluyendo sus ecosistemas principales,  biodiversidad, desaf&iacute;os ambientales y &aacute;reas protegidas. </p></td>
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center"><img src="WhatsApp Image 2024-06-21 at 9.41.06 PM.jpeg" width="400" height="350" /></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2"><div align="center"><img src="WhatsApp Image 2024-06-21 at 9.45.52 PM.jpeg" width="400" height="350" /></div></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="WhatsApp Image 2024-06-21 at 9.47.10 PM.jpeg" width="400" height="350" /></div></td>
+    <td colspan="4" rowspan="2"><p align="center" class="Estilo2">Ecosistemas Principales </p>
+        <ul>
+          <li class="Estilo3">Selvas Tropicales y Bosques: Predominan en las regiones de Mondulkiri y Ratanakiri. Son h&aacute;bitats cruciales para la biodiversidad y la regulaci&oacute;n  clim&aacute;tica, con especies raras de flora y fauna. </li>
+          <li class="Estilo3">Monta&ntilde;as y Altiplanos: Las cordilleras de Cardamomo y Annamita son regiones biodiversas que albergan especies &uacute;nicas y ecosistemas diversos  como bosques nubosos y secos. </li>
+          <li class="Estilo3">R&iacute;os y Humedales: El r&iacute;o Mekong y el lago Tonl&eacute; Sap son fundamentales para la vida acu&aacute;tica y terrestre. El Mekong es uno de los r&iacute;os m&aacute;s  biodiversos del mundo, y el Tonl&eacute; Sap experimenta un ciclo de inundaciones que crea un ecosistema &uacute;nico. </li>
+          <li class="Estilo3">Playas y Zonas Costeras: La costa del Golfo de Tailandia ofrece playas de arena blanca y ecosistemas de manglares que protegen la costa y sirven  de h&aacute;bitat para diversas especies marinas. </li>
+        </ul>
+      <p align="center" class="Estilo2">Biodiversidad </p>
+      <ul>
+          <li class="Estilo3">Flora: Incluye una gran variedad de &aacute;rboles, plantas medicinales y especies de manglares que son vitales para la biodiversidad costera.</li>
+        <li class="Estilo3"> Fauna: Camboya es hogar de especies emblem&aacute;ticas como el elefante asi&aacute;tico, el tigre de Indochina, aves raras como la grulla sarus, y una rica  diversidad de peces en el Mekong y el Tonl&eacute; Sap. </li>
+      </ul>
+      <p align="center" class="Estilo2">&Aacute;reas Protegidas y Conservaci&oacute;n</p>
+      <ul>
+          <li> <span class="Estilo3">Parques Nacionales: Como el Parque Nacional de Bokor y la Reserva de la Biosfera de Prek Toal, que protegen h&aacute;bitats cruciales y especies en  peligro. </span></li>
+        <li class="Estilo3">Proyectos de Conservaci&oacute;n: Incluyen esfuerzos de reforestaci&oacute;n, lucha contra la caza furtiva y el desarrollo de ecoturismo para fomentar la  conservaci&oacute;n y el beneficio econ&oacute;mico para las comunidades locales. </li>
+      </ul>
+      <p align="center" class="Estilo2">Desaf&iacute;os Ambientales</p>
+      <ul>
+          <li class="Estilo3"> Deforestaci&oacute;n y Degradaci&oacute;n del Suelo: La tala ilegal y la conversi&oacute;n de bosques para agricultura y plantaciones han llevado a una p&eacute;rdida  significativa de cobertura forestal y degradaci&oacute;n de la tierra, lo que impacta negativamente en la biodiversidad y la sostenibilidad ambiental.</li>
+      </ul></td>
+  </tr>
+  <tr>
+    <td colspan="3"><div align="center"><img src="WhatsApp Image 2024-06-21 at 9.47.38 PM.jpeg" width="400" height="350" /></div></td>
+  </tr>
+</table>
+</body>
+</html>
